@@ -1,0 +1,15 @@
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\bin\Debug\net6.0\Exercícios dos cursos.exe
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\bin\Debug\net6.0\Exercícios dos cursos.deps.json
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\bin\Debug\net6.0\Exercícios dos cursos.runtimeconfig.json
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\bin\Debug\net6.0\Exercícios dos cursos.dll
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\bin\Debug\net6.0\Exercícios dos cursos.pdb
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.csproj.AssemblyReference.cache
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.AssemblyInfoInputs.cache
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.AssemblyInfo.cs
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.csproj.CoreCompileInputs.cache
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.dll
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\refint\Exercícios dos cursos.dll
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.pdb
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\Exercícios dos cursos.genruntimeconfig.cache
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\C#\Exercícios dos cursos\obj\Debug\net6.0\ref\Exercícios dos cursos.dll
